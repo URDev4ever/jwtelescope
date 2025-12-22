@@ -1,5 +1,9 @@
 <h1 align="center">JWTelescope</h1>
 <p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p
+<p align="center">
   <img width="1045" height="474" alt="jwtelescope" src="https://github.com/user-attachments/assets/4a0a435a-592e-4231-87f6-c49f5e3231a3" />
 </p>
 
